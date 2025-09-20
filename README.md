@@ -1,1 +1,2 @@
-# Projeto-02
+# Projeto 2 de Desenvolvimento Web
+## Portfólio de Imagens
